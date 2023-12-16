@@ -12,7 +12,7 @@ app.get('/getUsers', function(req, res){
 })
 app.get('/getProducts', function(req, res){
     fs.readFile(__dirname + "/" + "products.json", 'utf8', function(err, data){
-        console.log(data);
+ 
         res.end(data); // you can also use res.send()
     });
 })
