@@ -8,17 +8,28 @@
         }
             
 
-        ],
-        "product name": "Gaming PC With RTX 2000 SeriesGr aphics Card",
+        ]
+    },
+    {
+        "product name": "Gaming PC With RTX 4000 SeriesGr aphics Card",
         "product image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51Fk2bBipEL._SL1280_.jpg",
-        "product detail":[
-            {
-            "product name":"Gaming PC With RTX 2000 SeriesGr aphics Card",
+        "product detail":[{
+            "product name":"Gaming PC With RTX 4000 SeriesGr aphics Card",
             "product image":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51Fk2bBipEL._SL1280_.jpg"
         }
             
 
         ]
-        
+    },
+    {
+        "product name": "Gaming PC With RTX 2000 SeriesGr aphics Card",
+        "product image": "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51Fk2bBipEL._SL1280_.jpg",
+        "product detail":[{
+            "product name":"Gaming PC With RTX 3000 SeriesGr aphics Card",
+            "product image":"https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/51Fk2bBipEL._SL1280_.jpg"
+        }
+            
+
+        ]
     }
-]
+  ]
