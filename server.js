@@ -20,6 +20,12 @@ app.get('/getProducts', function(req, res){
     });
 });
 
+app.get('/gettooheal', function(req, res){
+    fs.readFile(__dirname + "/" + "tooheal.json", 'utf8', function(err, data){
+        res.end(data);
+    });
+});
+
 // Create a server to listen at port 8080
 var server = app.listen(8080, function(){
     var host = server.address().address;
